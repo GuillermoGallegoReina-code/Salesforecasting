@@ -6,8 +6,8 @@ El objetivo es definir un problema de machine learning llevando a cabo el proces
 
 En este caso se realizará usando pyspark para todo el proceso.
 
-1- Construcción del dataset.
-2- Analítica descriptiva.
-3- Teoría Modelos Series Temporales.
-4- Selección del modelo.
-5- Conclusiones.
+* **1- Construcción del dataset.**
+* **2- Analítica descriptiva.**
+* **3- Teoría Modelos Series Temporales.**
+* **4- Selección del modelo.**
+* **5- Conclusiones.**
